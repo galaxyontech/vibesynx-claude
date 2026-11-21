@@ -1,0 +1,14 @@
+{
+  "name": "vibesynx",
+  "displayName": "VibeSynx",
+  "version": "0.1.0",
+  "description": "Original music for your videos and photo slideshows. Upload a clip or give a link, say what you want, and get the video back with a new soundtrack.",
+  "author": {
+    "name": "Vibesynx LLC",
+    "url": "https://platform.vibesynx.com"
+  },
+  "homepage": "https://platform.vibesynx.com",
+  "repository": "https://github.com/galaxyontech/vibesynx-claude",
+  "license": "MIT",
+  "keywords": ["music", "video", "soundtrack", "slideshow", "audio"]
+}

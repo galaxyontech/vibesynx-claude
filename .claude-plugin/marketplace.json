@@ -1,0 +1,17 @@
+{
+  "name": "vibesynx",
+  "description": "VibeSynx for Claude: original music for your videos and photo slideshows.",
+  "owner": {
+    "name": "Vibesynx LLC",
+    "url": "https://platform.vibesynx.com"
+  },
+  "plugins": [
+    {
+      "name": "vibesynx",
+      "source": "./plugins/vibesynx",
+      "description": "Compose music for a video or turn photos into a music slideshow from Claude Code.",
+      "category": "media",
+      "homepage": "https://platform.vibesynx.com"
+    }
+  ]
+}
