@@ -2,7 +2,8 @@
 
 This repository is a Claude Code plugin marketplace. It currently holds one
 plugin, **vibesynx**, which connects Claude Code to the VibeSynx MCP server so
-Claude can compose original music for your videos and photo slideshows.
+Claude can score your videos with cinematic-grade original music, or turn your
+photos into a slideshow set to music.
 
 ```bash
 claude plugin marketplace add galaxyontech/vibesynx-claude

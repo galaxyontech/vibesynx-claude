@@ -1,12 +1,14 @@
 ---
 name: video-music
-description: Compose original music for a video or build a music slideshow from photos with VibeSynx. Use when the user wants a soundtrack, background music, or music for a clip, reel, slideshow or photo set.
+description: Score a video or a photo set with cinematic-grade original music composed for that footage, with VibeSynx. Use when the user wants a soundtrack, background music, music that fits a clip or reel, a song for their video, or a photo slideshow set to music — including asks like "make this cut feel more cinematic, upbeat or emotional".
 ---
 
-# Music for a video with VibeSynx
+# Original music for a video with VibeSynx
 
-The `vibesynx` MCP server does the work. Jobs cost money or free credit, so the
-user decides before anything is started.
+VibeSynx writes cinematic-grade original music for a specific video and returns
+the finished cut with its new soundtrack. The `vibesynx` MCP server does the
+work. Jobs cost money or free credit, so the user decides before anything is
+started.
 
 ## Steps
 

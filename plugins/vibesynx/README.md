@@ -1,8 +1,8 @@
 # VibeSynx for Claude Code
 
-Original music for your videos and photo slideshows, from inside Claude Code.
-Give Claude a clip or a few photos, say what you want, and get the video back
-with a new soundtrack.
+Cinematic-grade original music, composed for your footage — from inside Claude
+Code. Give Claude a clip or a few photos, say what you want, and get the video
+back with a soundtrack written to fit it.
 
 ## Install
 
